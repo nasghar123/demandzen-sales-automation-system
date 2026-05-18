@@ -46,4 +46,4 @@ Calls are scored against a SPICED-style rubric (prep, situation, pain, metrics, 
 
 Keep secrets out of git. Treat the JSON samples as the contract for APIs. The HTML file is a UI reference, not the final architecture.
 
-Proprietary — DemandZEN.
+Proprietary: DemandZEN.

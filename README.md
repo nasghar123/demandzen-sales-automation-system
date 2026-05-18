@@ -14,13 +14,13 @@ Planned hooks: Fellow for calendar and transcripts, web search for research, Sal
 
 ## What's in the repo
 
-- `01_Overview/Developer_Briefing.docx` — main spec
-- `02_Sample_Data/dz_clients_database.json` — 251 past clients
-- `02_Sample_Data/sample_scored_calls.json` — example scored calls
-- `02_Sample_Data/Sample_ZDC_Output_Arkiva.json` — full ZENDiscovery JSON example
-- `03_Apps/ZENpost_Dashboard.html` — dashboard prototype (open in browser)
-- `03_Apps/Slide_Option_B_Preview.html` — slide layout preview
-- `04_Templates/Post_Discovery_Follow_Up_v6.pdf` — PDF template
+- `01_Overview/Developer_Briefing.docx`: main spec
+- `02_Sample_Data/dz_clients_database.json`: 251 past clients
+- `02_Sample_Data/sample_scored_calls.json`: example scored calls
+- `02_Sample_Data/Sample_ZDC_Output_Arkiva.json`: full ZENDiscovery JSON example
+- `03_Apps/ZENpost_Dashboard.html`: dashboard prototype (open in browser)
+- `03_Apps/Slide_Option_B_Preview.html`: slide layout preview
+- `04_Templates/Post_Discovery_Follow_Up_v6.pdf`: PDF template
 
 ## Run the dashboard
 

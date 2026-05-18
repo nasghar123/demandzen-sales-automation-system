@@ -1,0 +1,473 @@
+{
+  "meta": {
+    "prospect": "Arkieva",
+    "website": "https://arkieva.com",
+    "date_prepared": "2026-05-04",
+    "prepared_for": "DemandZEN AE Team",
+    "pipeline": "ZENDiscovery Complete"
+  },
+  "raw_linkedin_pastes": null,
+  "classification": {
+    "domain": "Operations & Supply Chain",
+    "sector": "Supply Chain Planning & Optimization",
+    "category": "Supply Chain Planning Software",
+    "vertical": "SupplyChainTech",
+    "buyer_function": [
+      "Operations",
+      "Supply Chain Planning",
+      "Demand Planning"
+    ],
+    "market_category": "Advanced Planning and Scheduling (APS)"
+  },
+  "company": {
+    "name": "Arkieva",
+    "website": "https://arkieva.com",
+    "founded": "1993",
+    "hq": "Wilmington, Delaware, USA",
+    "employees": "~100-150",
+    "employees_source": {
+      "label": "Multiple sources",
+      "url": "https://www.owler.com/company/arkieva"
+    },
+    "employee_count_range": "51-200",
+    "linkedin": "https://www.linkedin.com/company/arkieva",
+    "tagline": "Supply Chain Planning Software for Complex Enterprises",
+    "snapshot": "Arkieva is a supply chain planning software company with 30+ years of experience providing demand planning, inventory optimization, and S&OP (Sales & Operations Planning) solutions. Founded in 1993 as Supply Chain Consultants and rebranded in 2011, the company serves complex manufacturers across process manufacturing, chemicals, food & beverage, and CPG industries. The company's core platform \"Orbit\" delivers advanced forecasting, inventory management, and supply planning with collaboration tools for enterprise resource planning at scale.",
+    "dz_fit_signals": [
+      "Recent strategic growth investment from Banneker Partners (Apr 2025) signals aggressive expansion phase and GTM acceleration",
+      "New CEO appointment (Sep 2025) from i2 Technologies/Blue Yonder background indicates transformation toward cloud delivery and product modernization",
+      "Established enterprise customer base (Gates, Linde, Owens Corning, etc.) with 15,000+ users globally demonstrates proven sales model for scaling",
+      "Strong analyst recognition (Gartner Peer Insights, ranked 2nd in E2E MultiEnterprise planning) indicates growing market credibility and sales readiness",
+      "Active industry recognition (Top 100 Logistics & Supply Chain Technology Provider 2025, Demand Planning Solution of the Year at SupplyTech Breakthrough Awards 2025) shows momentum and market expansion"
+    ],
+    "dz_fit_risks": [
+      "Enterprise sales-led motion may require extended deal cycles and complex buying committees - traditional outbound SDR model may face longer sales cycles",
+      "Self-funded company history suggests conservative approach to sales spending - may be skeptical of aggressive outbound spend until newly-appointed CEO establishes GTM strategy",
+      "Deep technical product may deter or delay purchasing from buyers unfamiliar with advanced planning concepts - requires strong internal champion and procurement alignment"
+    ]
+  },
+  "funding": {
+    "stage": "Growth Stage / Private Equity Backed",
+    "total_raised": null,
+    "total_raised_source": {
+      "label": "",
+      "url": null
+    },
+    "last_round_amount": null,
+    "last_round_date": "April 29, 2025",
+    "last_round_source": {
+      "label": "Banneker Partners",
+      "url": "https://www.bannekerpartners.com/announcement/arkieva-announces-strategic-growth-investment-from-banneker-partners/"
+    },
+    "valuation": null,
+    "valuation_source": {
+      "label": "",
+      "url": null
+    },
+    "investors": [
+      "Banneker Partners"
+    ],
+    "estimated_arr": null,
+    "estimated_arr_source": {
+      "label": "",
+      "url": null
+    },
+    "revenue_growth_signal": "Private equity growth capital indicates strong revenue performance and investor confidence in scaling cloud delivery and product modernization roadmap."
+  },
+  "product": {
+    "primary_offering": "Advanced supply chain planning platform anchored by \"Orbit\" (in-memory planning engine) with \"Beacon\" collaboration tools for demand planning, inventory optimization, supply planning, and S&OP governance.",
+    "modules": [
+      "Collaborative Demand Manager",
+      "Inventory Planner",
+      "Inventory Analyzer",
+      "Supply Planner (full optimization)",
+      "Replenishment Planner",
+      "S&OP Central",
+      "Finite Scheduler"
+    ],
+    "use_cases": [
+      "Demand forecasting and collaborative planning across cross-functional teams",
+      "Inventory optimization and safety stock determination",
+      "Production scheduling and supply planning for complex manufacturing",
+      "Campaign and blend planning for process manufacturers",
+      "S&OP governance and integrated business planning",
+      "Supply chain agility and demand-driven response"
+    ],
+    "problems_solved": [
+      "Forecast accuracy improvement through ML-driven demand sensing",
+      "Safety stock optimization to reduce carrying costs",
+      "Complex manufacturing constraints (shelf life, quality, yield variability, campaign planning)",
+      "Cross-functional collaboration gaps in S&OP processes",
+      "Inability to respond rapidly to demand and supply changes",
+      "Manual or fragmented planning across disparate systems"
+    ],
+    "replaces": [
+      "Legacy ERP-based planning modules",
+      "Manual spreadsheet-driven S&OP",
+      "Point solutions (standalone forecasting, inventory management tools)",
+      "Outdated APS systems lacking modern UI and collaboration capabilities"
+    ],
+    "sales_complexity": "Enterprise",
+    "avg_sales_cycle": null
+  },
+  "go_to_market": {
+    "sales_motion": "Sales-led",
+    "sales_motion_detail": "Enterprise direct sales model focused on large manufacturers and complex process companies. New CEO appointment and Banneker Partners investment signal shift toward accelerated cloud GTM and likely increased sales hiring/outbound motion. Currently leverages established brand and customer success stories but likely building scaled sales infrastructure.",
+    "target_company_size": "Mid-market to Enterprise (1,000+ employees typical)",
+    "target_industries": [
+      "Chemical Manufacturing",
+      "Process Manufacturing",
+      "Food & Beverage",
+      "Consumer Packaged Goods (CPG)",
+      "Pharmaceuticals & Life Sciences",
+      "Industrials"
+    ],
+    "avg_deal_size": null,
+    "geographic_focus": [
+      "North America",
+      "Europe (Antwerp, Belgium office)",
+      "Asia-Pacific (Mangalore, India office)"
+    ],
+    "expansion_signals": [
+      "New CEO (Anand Iyer) hired from i2/Blue Yonder background in Sep 2025 - signals cloud-first strategy and potential GTM acceleration",
+      "Banneker Partners investment (Apr 2025) explicitly focused on geographic expansion and product modernization",
+      "Recent major client wins: Wells Enterprises (Jun 2024), Tata Consumer Products (Dec 2024) - signals expanding presence in CPG and emerging markets",
+      "Gartner analyst recognition and Top 100 Supply Chain Technology Provider ranking (2025) signal market-share expansion efforts"
+    ]
+  },
+  "competitive_position": {
+    "competitors": [
+      "SAP (C/ALSP, Integrated Business Planning)",
+      "Anaplan (demand planning / S&OP module)",
+      "Logility (advanced perpetual planning)",
+      "Infor (CloudSuite)",
+      "Coupa (supply chain planning modules)",
+      "Blue Yonder (formerly JDA)",
+      "RELEX",
+      "Solvoyo",
+      "John Galt Solutions",
+      "CyberPlan"
+    ],
+    "competitors_source": {
+      "label": "G2, Gartner Peer Insights",
+      "url": "https://www.gartner.com/reviews/market/supply-chain-planning-solutions/vendor/arkieva/alternatives"
+    },
+    "differentiators": [
+      "Purpose-built for process manufacturing complexity (shelf life, yield variability, campaign planning) vs. generic APS systems",
+      "Deep vertical expertise in discrete and process manufacturing with 30+ years of customer success stories",
+      "Collaborative S&OP governance tools (Beacon) designed for cross-functional alignment",
+      "In-memory optimization engine (Orbit) for speed and scenario modeling",
+      "Proven customer base includes industry leaders (Gates, Linde, Owens Corning, SPI Pharma, Sunsweet) demonstrating ROI"
+    ],
+    "market_position": "Challenger / Niche Leader",
+    "analyst_recognition": [
+      "Gartner Peer Insights: Ranked 2nd in E2E MultiEnterprise planning, 3rd in Supply Planning Use Case (2024 Critical Capabilities Report)",
+      "Inbound Logistics: Top 100 Logistics and Supply Chain Technology Provider (2025)",
+      "SupplyChainBrain: 100 Great Supply Chain Partners (2025)",
+      "SupplyTech Breakthrough Awards: Demand Planning Solution of the Year (2025)"
+    ]
+  },
+  "social_proof": {
+    "primary_review_source": "Gartner Peer Insights",
+    "rating": null,
+    "review_count": null,
+    "review_source_url": {
+      "label": "Gartner Peer Insights",
+      "url": "https://www.gartner.com/reviews/market/supply-chain-planning-solutions/vendor/arkieva"
+    },
+    "review_themes_positive": [
+      "Accurate demand forecasting and improved forecast accuracy",
+      "Strong collaboration features for cross-functional S&OP processes",
+      "Improvement in sales and revenue since adoption",
+      "Ability to create centralized demand plans enabling proactive market response",
+      "Excellent customer support and responsive implementation team"
+    ],
+    "review_themes_negative": [
+      "Complex user interface requiring specific expertise to navigate",
+      "Steep learning curve for end users",
+      "Remote desktop version performance could be improved"
+    ],
+    "known_clients": [
+      "Escalade Sports",
+      "Federal-Mogul",
+      "Gates",
+      "Linde",
+      "Linxens",
+      "Lush",
+      "Momentive",
+      "Nouryon",
+      "Ontex",
+      "Owens Corning",
+      "SPI Pharma",
+      "Sunsweet Growers",
+      "Wonderful Brands",
+      "Wells Enterprises",
+      "Tata Consumer Products",
+      "Cerevel Therapeutics"
+    ],
+    "notable_case_studies": [
+      "Wells Enterprises - End-to-end supply chain planning for largest privately held ice cream manufacturer in North America (2024-2025)",
+      "Tata Consumer Products - Tea blend optimization through Arkieva supply planning (Dec 2024)"
+    ]
+  },
+  "news": [
+    {
+      "date": "May 2025",
+      "headline": "Arkieva Recognized as Top 100 Logistics and Supply Chain Technology Provider",
+      "summary": "Arkieva was recognized by Inbound Logistics as a Top 100 Logistics and Supply Chain Technology Provider for 2025, continuing recognition from the 2024 edition.",
+      "relevance_to_dz": "Analyst and industry recognition signals growing market momentum and credibility - ideal proof point for DZ positioning around market leadership and customer trust.",
+      "recency": "FRESH",
+      "source_url": "https://arkieva.com/arkieva-inbound-logistics-top-supply-chain-planning-provider/"
+    },
+    {
+      "date": "April 29, 2025",
+      "headline": "Arkieva Announces Strategic Growth Investment from Banneker Partners",
+      "summary": "Arkieva announced a significant growth investment from Banneker Partners (PE firm) to accelerate product innovation, cloud delivery modernization, and geographic expansion.",
+      "relevance_to_dz": "Growth capital signals aggressive GTM expansion and likely increased sales hiring - strong signal that Arkieva is in expansion mode and may have budget/headcount priorities shifting toward outbound pipeline generation.",
+      "recency": "FRESH",
+      "source_url": "https://arkieva.com/arkieva-strategic-growth-investment-banneker-partners/"
+    },
+    {
+      "date": "September 2025",
+      "headline": "Arkieva Names New CEO Anand Iyer",
+      "summary": "Arkieva appointed Anand Iyer as Chief Executive Officer, bringing 30 years of industry experience including leadership roles at i2 Technologies and Serus (now e2Open). Leadership change signals acceleration agenda toward cloud delivery and product modernization.",
+      "relevance_to_dz": "New CEO from i2/Blue Yonder background indicates GTM transformation and likely sales infrastructure buildout - timing suggests Arkieva entering aggressive growth phase where DZ can position scaled outbound pipeline support.",
+      "recency": "FRESH",
+      "source_url": "https://www.dcvelocity.com/technology/supply-chain-it/supply-chain-saas-firm-arkieva-names-new-ceo"
+    },
+    {
+      "date": "June 2024",
+      "headline": "Wells Enterprises End-to-End Supply Chain Planning Implementation",
+      "summary": "Arkieva announced successful implementation of comprehensive supply chain planning optimization for Wells Enterprises, North America's largest privately held ice cream manufacturer, to handle production complexity and support business growth.",
+      "relevance_to_dz": "Major customer win demonstrates strong product-market fit in CPG/food manufacturing vertical and execution capability - proof point for sales team's ability to land flagship accounts.",
+      "recency": "RECENT",
+      "source_url": "https://www.prnewswire.com/news-releases/arkieva-delivers-end-to-end-supply-chain-planning-optimization-software-solution-for-wells-enterprises-302165195.html"
+    }
+  ],
+  "buyer": {
+    "primary_persona": "Supply Chain Director or VP of Planning and Scheduling responsible for enterprise-wide demand planning, S&OP governance, and supply chain optimization. Owns budget for planning software and drives process improvement initiatives.",
+    "primary_persona_titles": [
+      "VP Supply Chain Planning",
+      "Director of Demand Planning",
+      "Director of Supply Chain",
+      "S&OP Process Owner",
+      "VP of Planning & Scheduling"
+    ],
+    "economic_buyer": "Chief Operating Officer (COO), Chief Supply Chain Officer (CSCO), or VP of Operations who controls budget for supply chain transformation and process improvement technology.",
+    "economic_buyer_titles": [
+      "Chief Operating Officer (COO)",
+      "Chief Supply Chain Officer (CSCO)",
+      "VP of Operations",
+      "VP of Supply Chain"
+    ],
+    "budget_owner_dept": "Operations / Supply Chain",
+    "typical_buying_committee": [
+      "Demand Planning Director or Manager",
+      "Supply Chain Planning Manager",
+      "IT/Systems Integration Manager",
+      "CFO or Finance Business Partner (ROI validation)",
+      "Operations/COO (final approval)",
+      "IT Infrastructure (deployment and maintenance)"
+    ],
+    "persona_pain_points": [
+      "Forecast accuracy falling short, leading to safety stock buildup or stockouts",
+      "Disconnected demand/supply planning across functions (sales, operations, procurement)",
+      "Manual or spreadsheet-driven S&OP processes slowing decision velocity",
+      "Inability to respond to demand disruptions or market shifts quickly",
+      "Complexity of production constraints (shelf life, quality, yield) not captured in existing systems",
+      "Limited visibility into supply risk and alternative scenarios"
+    ],
+    "persona_goals": [
+      "Improve demand forecast accuracy by 5-15%",
+      "Reduce safety stock and carrying costs",
+      "Accelerate S&OP decision cycles from monthly to weekly or bi-weekly",
+      "Enable cross-functional collaboration on demand and supply alignment",
+      "Support business growth without proportional increase in planning headcount"
+    ],
+    "what_they_care_about": [
+      "ROI and payback period (3-18 months typical for manufacturing software)",
+      "Ease of implementation and time-to-value",
+      "Vendor stability and customer success track record",
+      "Depth of vertical expertise (process manufacturing nuances)",
+      "Scalability as company grows or expands into new markets",
+      "Cloud vs on-prem deployment options"
+    ],
+    "what_they_dont_care_about": [
+      "Generic marketing messaging or competitive positioning",
+      "Features outside supply chain scope (CRM, HCM integration)",
+      "Flashy UI lacking substantive planning capability"
+    ],
+    "likely_objections": [
+      {
+        "objection": "We already have planning built into our ERP (SAP/Oracle/Infor). Why replace it?",
+        "reframe": "Enterprise ERPs provide foundational planning but lack the advanced optimization, scenario modeling, and cross-functional governance tools built into purpose-designed APS. Arkieva layers on specialized algorithms and collaboration that drive 5-15% improvement in forecast accuracy and safety stock reduction at scale.",
+        "evidence_based": true,
+        "evidence": "Arkieva customer base (Gates, Linde, Owens Corning) are all large enterprises running major ERPs but chose Arkieva for specialized planning depth. Gartner Peer Insights recognizes Arkieva as ranking 2nd in E2E MultiEnterprise planning."
+      },
+      {
+        "objection": "Implementation risk is too high. We've been burned by planning software before.",
+        "reframe": "Arkieva has 30+ years of customer success in complex manufacturing. Their implementation team has deep vertical expertise and proven playbooks for phased rollouts. Reference customers (Wells Enterprises ice cream, Tata Consumer tea) show rapid time-to-value even for complex, multi-facility operations.",
+        "evidence_based": true,
+        "evidence": "Wells Enterprises and Tata Consumer Products recent case studies (2024-2025) demonstrate successful large-scale implementations in highly complex manufacturing environments."
+      },
+      {
+        "objection": "We're concerned about moving to cloud. Our legacy systems are on-prem and we want to maintain control.",
+        "reframe": "Arkieva supports both on-prem and cloud deployment options. New leadership and Banneker Partners investment focused specifically on cloud modernization but with flexible deployment. Talk to their sales team about your architecture preferences\u2014enterprise customers have options.",
+        "evidence_based": true,
+        "evidence": "New CEO Anand Iyer from i2/Blue Yonder background signals cloud-first strategy but legacy on-prem customers remain supported. Banneker investment explicitly mentions cloud delivery acceleration."
+      },
+      {
+        "objection": "We're small/mid-market. Arkieva seems built for large enterprises. Is the solution right-sized for us?",
+        "reframe": "Arkieva serves the full enterprise spectrum. Their platform Orbit supports on-prem or cloud, and modules are modular\u2014start with demand planning or inventory optimization and scale. They've implemented in mid-market manufacturing (100-500 employee operations) as well as Fortune 500.",
+        "evidence_based": true,
+        "evidence": "Customer diversity from Escalade Sports to Owens Corning to SPI Pharma shows breadth of company sizes served. Sales FAQ on website explicitly addresses SMB/small business questions."
+      }
+    ]
+  },
+  "outbound_intelligence": {
+    "has_sdr_team": "Unknown",
+    "sdr_team_size": null,
+    "sdr_team_signals": [
+      "No specific evidence of dedicated SDR team found in public job postings or LinkedIn",
+      "Traditional sales-led enterprise model typically supported by account executives and presales"
+    ],
+    "recent_sdr_job_postings": [],
+    "outbound_tools_detected": [],
+    "sales_team_size": "~20-40 estimated",
+    "ae_count": "~10-20 estimated",
+    "sales_hiring_signals": [
+      "New CEO appointment (Sep 2025) from i2 background signals likely sales infrastructure buildout",
+      "Banneker Partners investment (Apr 2025) explicitly targets GTM acceleration and product innovation - typically includes sales team expansion",
+      "Recent customer wins (Wells, Tata) and Top 100 analyst recognition suggest sales team is active but may be bottleneck as inbound demand grows"
+    ],
+    "outbound_maturity": "Developing",
+    "outbound_maturity_rationale": "Arkieva has 30+ years of proven sales execution in enterprise accounts but limited evidence of systematic SDR/BDR outbound motion. With new CEO from Blue Yonder background and PE backing, company is likely in transition from inbound/customer success motion toward scaled outbound\u2014but this infrastructure is likely still being built."
+  },
+  "leadership": [
+    {
+      "name": "Anand Iyer",
+      "title": "Chief Executive Officer",
+      "note": "Appointed Sep 2025. Former VP at i2 Technologies (now Blue Yonder) and Serus (now e2Open). 30+ years of supply chain software industry experience. Brought in to lead cloud modernization and GTM acceleration."
+    },
+    {
+      "name": "Harpal Singh",
+      "title": "Founder",
+      "note": "Founded Supply Chain Consultants (now Arkieva) in 1993. Background as analytics consultant at DuPont. Led company's evolution from consulting to software product company (Zemeter, then Arkieva platform)."
+    },
+    {
+      "name": "Sujit Singh",
+      "title": "Chief Operating Officer (COO)",
+      "note": "Manages operations and likely key stakeholder in GTM strategy execution under new CEO."
+    },
+    {
+      "name": "Georgi Genov",
+      "title": "Chief Technology Officer (CTO)",
+      "note": "Responsible for technical strategy and product development, including cloud modernization roadmap."
+    }
+  ],
+  "client_matches": [],
+  "contacts": [
+    {
+      "name": "Parth Thakker",
+      "title": "Chief Commercial Officer",
+      "email": null,
+      "linkedin": null,
+      "profile_summary": "Sales leader with 15+ years in enterprise software and supply chain technology. Extensive experience building and scaling global sales teams for AI-driven supply chain and inventory solutions. Founded/early employee experience at antuit.ai (acquired by Zebra Technologies 2021), where he built go-to-market organization from ground up and scaled from startup to mid-market revenue leader. Background spans sales leadership, partnerships, customer success, and solution consulting. MBA from NYU Stern; Engineering background (Stevens Institute). Strong track record in manufacturing, CPG, and retail verticals with emphasis on supply chain optimization solutions.",
+      "role_description": "Chief Commercial Officer\u2014responsible for all go-to-market functions including sales, customer success, partnerships, and commercial strategy",
+      "department": "Sales / Commercial",
+      "likely_pain_points": [
+        "Scaling sales team while maintaining quality and culture during rapid growth phase",
+        "Building SDR/BDR motion from scratch or scaling existing outbound capability",
+        "Aligning new CEO's transformation agenda with sales organization and Banneker Partners' growth expectations",
+        "Capturing market share in supply chain planning category against entrenched ERP and APS competitors",
+        "Developing sales messaging for technical product (advanced planning) targeting non-technical buying committees"
+      ],
+      "likely_goals": [
+        "Build sales infrastructure to support geographic expansion and new product lines",
+        "Establish outbound pipeline to complement inbound and customer success motion",
+        "Achieve ARR targets aligned with Banneker Partners' investment thesis",
+        "Develop competitive positioning against SAP, Blue Yonder, and other competitors",
+        "Scale customer success and retention alongside new customer acquisition"
+      ],
+      "buyer_influence": "Economic buyer and final decision-maker on sales tool/service investments",
+      "note_on_prior_employment": "Based on research, Parth Thakker's background includes antuit.ai (supply chain AI) and Zebra Technologies (enterprise inventory solutions). antuit.ai is likely a PEER or ADJACENT match if in DZ client database under different name (check for Zebra, antuit, inventory solutions vendors)."
+    }
+  ],
+  "prior_employment": [
+    {
+      "contact_name": "Parth Thakker",
+      "company": "antuit.ai (acquired by Zebra Technologies 2021)",
+      "position": "SVP Global Head of Sales / Principal",
+      "tenure": "2015-2021 (antuit.ai); 2021-present (Zebra Technologies - antuit.ai business unit)",
+      "dz_match": "FOUND: Zebra Technologies (Domain: Data & Analytics, Category: Analytics and Business Intelligence Platforms, Program: Both)",
+      "relevance": "Built global sales organization for AI-driven supply chain software serving manufacturers and CPG. Highly relevant to Arkieva GTM model and similar buyer personas.",
+      "is_dz_client": true
+    },
+    {
+      "contact_name": "Parth Thakker",
+      "company": "Genpact",
+      "position": "Sales Executive",
+      "tenure": "Early career",
+      "dz_match": "Genpact may be in DZ database as services vendor - verify",
+      "relevance": "Digital transformation services background relevant to enterprise sales and customer success at scale."
+    }
+  ],
+  "dz_positioning": {
+    "recommended_pitch_angle": "Help Arkieva's newly appointed CEO accelerate outbound pipeline and sales team scaling as they leverage Banneker Partners capital for cloud-driven GTM expansion.",
+    "opening_question": "With your new CEO from Blue Yonder coming in, and Banneker Partners backing you for cloud modernization, what does your sales team infrastructure and outbound motion look like right now\u2014are you building that out from scratch or extending an existing model?",
+    "discovery_questions": [
+      "How is the new leadership team planning to scale sales capacity to capture the market opportunity that Banneker Partners is funding?",
+      "What's your current mix between inbound/existing customer success pipeline versus outbound demand generation?",
+      "Are you planning to build a dedicated SDR/BDR team to support your geographic expansion and product modernization roadmap?"
+    ],
+    "sales_angle_points": [
+      {
+        "title": "CEO-Driven Transformation & Sales Scaling",
+        "body": "Your new CEO Anand Iyer comes from i2/Blue Yonder with 30+ years of enterprise software GTM experience. Banneker Partners invested specifically to accelerate cloud delivery and expand geographically. This is a classic CEOtransformation moment where sales infrastructure buildout is critical to capturing the investment's value. DZ helps ambitious teams like yours generate consistent pipeline while your sales leaders set up the long-term playbooks.",
+        "supporting_data": "Anand Iyer appointment Sep 2025; Banneker investment Apr 2025; CEO background in scaling enterprise sales at i2 (now Blue Yonder)"
+      },
+      {
+        "title": "Enterprise Customer Win Momentum",
+        "body": "You've proven major wins in complex manufacturing (Wells Enterprises ice cream, Tata Consumer tea)\u2014both in 2024. This demonstrates that your solution resonates with enterprise buyers. The gap now is systematic demand generation to feed that sales team. DZ's outbound playbooks are built for this: consistent pipeline to top-tier manufacturers in your core verticals.",
+        "supporting_data": "Wells Enterprises (Jun 2024), Tata Consumer Products (Dec 2024), Gartner recognition (2nd in E2E MultiEnterprise planning)"
+      },
+      {
+        "title": "Vertical Expertise Unlocks Differentiation",
+        "body": "Your unique competitive advantage is deep vertical expertise in process manufacturing\u2014shelf life, yield variability, campaign planning. That's hard to explain at scale without deliberate, targeted outbound. DZ helps you reach process manufacturing leaders (chemical, pharma, food & beverage, industrials) with messaging that resonates with their specific constraints.",
+        "supporting_data": "Customer base (Escalade Sports, Gates, Linde, Owens Corning, SPI Pharma, Sunsweet) all in process-heavy industries; Gartner recognition for supply planning and E2E planning use cases"
+      },
+      {
+        "title": "Analyst Momentum as Sales Proof Points",
+        "body": "You're on Gartner Peer Insights (2nd in E2E planning), Inbound Logistics Top 100 (2025), SupplyChainBrain's Top 50 partners, and SupplyTech Breakthrough's Demand Planning Solution of the Year. These are gold for sales conversations\u2014they prove market leadership. DZ amplifies these proof points through targeted outbound to decision-makers in your target verticals.",
+        "supporting_data": "Gartner Peer Insights 2024 Critical Capabilities (2nd E2E, 3rd Supply Planning); Inbound Logistics Top 100; SupplyChainBrain Top 50; SupplyTech Breakthrough 2025 award"
+      }
+    ],
+    "proof_points": [
+      {
+        "claim": "Enterprise software scale requires systematic outbound pipeline, not just inbound momentum.",
+        "evidence": "New CEO's background at i2/Blue Yonder (scaling from regional to global) and Banneker Partners' playbook emphasize build-scale-repeat model. Pure inbound/customer success won't capture Banneker's growth thesis."
+      },
+      {
+        "claim": "DZ delivers consistent pipeline to target verticals\u2014process manufacturing, chemicals, pharma, F&B\u2014where your vertical expertise is defensible.",
+        "evidence": "DZ's outbound methodology reaches and qualifies buyers in your exact verticals. Your customers (Gates, Linde, Owens Corning) are DZ account types; DZ can systematically reach their peers."
+      },
+      {
+        "claim": "Analyst recognition and customer wins are powerful sales conversation starters\u2014but only if sales team hears about them systematically.",
+        "evidence": "DZ amplifies proof points through targeted outbound. Your Gartner ranking, Top 100, and awards are assets that multiply in value when delivered strategically to the right prospects."
+      }
+    ],
+    "red_flags": [
+      "New CEO and organizational change may slow decision-making in next 90 days\u2014validate sponsorship early and identify who owns sales hiring/outbound GTM budget",
+      "Banneker Partners investment may have strict revenue/pipeline targets\u2014understand their timeline expectations to position DZ as accelerator vs. cost",
+      "Enterprise sales cycles are long (6-12 months typical)\u2014ensure Arkieva views outbound as lead generation for pipeline, not immediate bookings"
+    ],
+    "next_steps_recommendation": "Arrange call with new CEO (Anand Iyer) and Chief Revenue Officer or VP Sales to understand sales infrastructure roadmap and Banneker-backed growth targets. Position DZ as tactical pipeline accelerator while they build long-term GTM organization."
+  },
+  "cliff_notes": {
+    "one_liner": "Arkieva is a maturing supply chain planning software leader in growth phase (new CEO, PE investment) targeting complex manufacturers with enterprise APS solutions\u2014prime prospect for DZ outbound support as they scale sales infrastructure.",
+    "most_important_signal": "Zero direct client matches in DZ database (supply chain planning not in historical focus), but massive DZ opportunity: new CEO + PE backing signals Arkieva entering high-velocity sales scaling phase where systematic outbound pipeline is critical.",
+    "most_likely_objection": "We already have planning built into our ERP\u2014why replace it?",
+    "single_best_angle": "CEO-Driven Transformation & Sales Scaling \u2013 Help new leadership team accelerate outbound pipeline as they execute Banneker Partners' cloud modernization and geographic expansion thesis",
+    "watch_out": "Enterprise sales cycle length and deal complexity may require longer engagement models. Verify that new CEO's expansion agenda includes outbound/demand generation headcount (vs. purely product/expansion-driven spending)."
+  }
+}

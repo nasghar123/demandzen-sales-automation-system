@@ -1,0 +1,535 @@
+{
+  "calls": [
+    {
+      "id": "joey_talkiatry",
+      "rep": "Joey Plesce",
+      "rep_email": "joey.plesce@demandzen.com",
+      "prospect": "Talkiatry",
+      "prospect_domain": "talkiatry.com",
+      "meeting_date": "2026-04-20",
+      "meeting_title": "Talkiatry / DemandZEN",
+      "status": "complete",
+      "score": 22,
+      "rubric": [
+        {
+          "category": "Preparation + Social Proof",
+          "weight": 15,
+          "score": 3,
+          "max": 15
+        },
+        {
+          "category": "SPICED: S \u2014 Situation",
+          "weight": 10,
+          "score": 5,
+          "max": 10
+        },
+        {
+          "category": "SPICED: P \u2014 Pain Probing",
+          "weight": 20,
+          "score": 3,
+          "max": 20
+        },
+        {
+          "category": "Metrics \u2014 Sales Math & ICP",
+          "weight": 20,
+          "score": 4,
+          "max": 20
+        },
+        {
+          "category": "SPICED: I \u2014 Impact",
+          "weight": 15,
+          "score": 2,
+          "max": 15
+        },
+        {
+          "category": "SPICED: C \u2014 Critical Event",
+          "weight": 10,
+          "score": 3,
+          "max": 10
+        },
+        {
+          "category": "SPICED: ED \u2014 Decision Process",
+          "weight": 5,
+          "score": 1,
+          "max": 5
+        },
+        {
+          "category": "Closing \u2014 Confirmed Follow-up",
+          "weight": 5,
+          "score": 1,
+          "max": 5
+        }
+      ],
+      "spiced": {
+        "situation": "Largest independent psychiatry group in the US. Series D completed. Targets medical groups and health systems. Using Reveneer since Jan, getting 10-15 meetings/month. Preferred channel: phone. Team size, ACV, and sales cycle not captured.",
+        "pain": "MISSED \u2014 Prospect said he's 'always looking for what else is out there.' No deeper pain surfaced beyond mild curiosity about alternatives.",
+        "impact": "MISSED \u2014 No business outcome connected. Call moved to pricing and differentiators without impact framing.",
+        "critical_event": "PARTIAL \u2014 Reveneer's 6-month contract review coming up 'relatively soon' but never probed for specific date.",
+        "decision_process": "MISSED \u2014 Decision maker identity and process never established. Joey agreed to 'circle back in 30 days' with no calendar invite confirmed."
+      },
+      "talk_time": {
+        "ae_pct": 61,
+        "prospect_pct": 39,
+        "flagged": true
+      },
+      "clients_mentioned": [],
+      "competitors_detected": [
+        "Reveneer"
+      ],
+      "post_call_followup": "PENDING",
+      "coaching_note": "Joey pivoted into pitch mode too early. The prospect handed him a clear opening \u2014 a contract review coming up \u2014 and Joey never pressed into it.",
+      "zdc_status": "complete",
+      "zdc_file": "Talkiatry_ZDC_2026-05-04.json"
+    },
+    {
+      "id": "joey_arkiva",
+      "rep": "Joey Plesce",
+      "rep_email": "joey.plesce@demandzen.com",
+      "prospect": "Arkiva",
+      "prospect_domain": "arkiva.com",
+      "meeting_date": "2026-04-21",
+      "meeting_title": "Parth Thakker / Arkiva",
+      "status": "complete",
+      "score": 59,
+      "rubric": [
+        {
+          "category": "Preparation + Social Proof",
+          "weight": 15,
+          "score": 8,
+          "max": 15
+        },
+        {
+          "category": "SPICED: S \u2014 Situation",
+          "weight": 10,
+          "score": 8,
+          "max": 10
+        },
+        {
+          "category": "SPICED: P \u2014 Pain Probing",
+          "weight": 20,
+          "score": 13,
+          "max": 20
+        },
+        {
+          "category": "Metrics \u2014 Sales Math & ICP",
+          "weight": 20,
+          "score": 9,
+          "max": 20
+        },
+        {
+          "category": "SPICED: I \u2014 Impact",
+          "weight": 15,
+          "score": 8,
+          "max": 15
+        },
+        {
+          "category": "SPICED: C \u2014 Critical Event",
+          "weight": 10,
+          "score": 6,
+          "max": 10
+        },
+        {
+          "category": "SPICED: ED \u2014 Decision Process",
+          "weight": 5,
+          "score": 3,
+          "max": 5
+        },
+        {
+          "category": "Closing \u2014 Confirmed Follow-up",
+          "weight": 5,
+          "score": 4,
+          "max": 5
+        }
+      ],
+      "spiced": {
+        "situation": "CCO at Arkiva (supply chain planning, ~$20M ARR, 80+ global customers, Gartner Magic Quadrant challenger). Week 3 in role. One BD rep handling inbound qualification only. Using Unified for email sequences. Zero outbound today. North America priority; Europe TBD.",
+        "pain": "Board mandate to build outbound org. Only 5 SALs from 10 MQLs in Q1. Needs 10-15 SALs/quarter. Pipeline coverage at 1-2x \u2014 not enough to hit FY26 plan.",
+        "impact": "Insufficient pipeline to hit FY26 number. Everything from now on is 2027 pipeline. Needs 30% bookings growth from 2026 to 2027. 15-20 deals needed to hit annual plan based on current ASP.",
+        "critical_event": "PARTIAL \u2014 Board mandate already in motion (week 3). On road most of May. Needs to present business case options to management before Memorial Day.",
+        "decision_process": "PARTIAL \u2014 Parth is CCO and champion. Must present options to management team for approval. Tuesday follow-up confirmed."
+      },
+      "talk_time": {
+        "ae_pct": 48,
+        "prospect_pct": 52,
+        "flagged": false
+      },
+      "clients_mentioned": [
+        "Zebra Technologies",
+        "Verusin AI",
+        "Level Ops"
+      ],
+      "competitors_detected": [],
+      "post_call_followup": "PENDING",
+      "coaching_note": "Best call of the batch. Strong situation mapping and genuine pain probe. Gap: no news/context opener, ACV never confirmed, management team not identified.",
+      "zdc_status": "complete",
+      "zdc_file": "Arkiva_ZDC_2026-05-04.json"
+    },
+    {
+      "id": "brian_doubletrack",
+      "rep": "Brian Ball",
+      "rep_email": "brian.ball@demandzen.com",
+      "prospect": "DoubleTrack",
+      "prospect_domain": "doubletrack.com",
+      "meeting_date": "2026-04-03",
+      "meeting_title": "DoubleTrack / DemandZEN \u2014 Intro",
+      "status": "complete",
+      "score": 58,
+      "rubric": [
+        {
+          "category": "Preparation + Social Proof",
+          "weight": 15,
+          "score": 9,
+          "max": 15
+        },
+        {
+          "category": "SPICED: S \u2014 Situation",
+          "weight": 10,
+          "score": 8,
+          "max": 10
+        },
+        {
+          "category": "SPICED: P \u2014 Pain Probing",
+          "weight": 20,
+          "score": 13,
+          "max": 20
+        },
+        {
+          "category": "Metrics \u2014 Sales Math & ICP",
+          "weight": 20,
+          "score": 10,
+          "max": 20
+        },
+        {
+          "category": "SPICED: I \u2014 Impact",
+          "weight": 15,
+          "score": 7,
+          "max": 15
+        },
+        {
+          "category": "SPICED: C \u2014 Critical Event",
+          "weight": 10,
+          "score": 3,
+          "max": 10
+        },
+        {
+          "category": "SPICED: ED \u2014 Decision Process",
+          "weight": 5,
+          "score": 4,
+          "max": 5
+        },
+        {
+          "category": "Closing \u2014 Confirmed Follow-up",
+          "weight": 5,
+          "score": 5,
+          "max": 5
+        }
+      ],
+      "spiced": {
+        "situation": "Data/AI/Lead-to-Cash consulting firm. 15 employees, 3 quota-carrying sellers. ~$3M ARR in 2025, targeting $6M in 2026. Entirely referral/network-led today. ICP: RevOps, SalesOps, CRO, CIO/CDO, procurement. Verticals: SaaS/tech, manufacturing, transportation & logistics. $50M\u2013$250M revenue companies.",
+        "pain": "Services company with multi-offer value prop trying to do outbound for the first time. Without a clear lead service to anchor messaging, cold outbound is nearly impossible to execute effectively.",
+        "impact": "PARTIAL \u2014 Implied: can't double revenue to $6M through referrals alone. Not explicitly quantified in dollar terms.",
+        "critical_event": "MISSED \u2014 Revenue doubling goal is 2026 but no board meeting, investor deadline, or specific trigger uncovered.",
+        "decision_process": "CFO Chad is signee/budget holder. Eric (CEO) is decision maker. Caleb is day-to-day contact. Contract mirrors existing Clickboarding terms. Tuesday 1pm follow-up confirmed."
+      },
+      "talk_time": {
+        "ae_pct": 52,
+        "prospect_pct": 48,
+        "flagged": false
+      },
+      "clients_mentioned": [
+        "Clickboarding"
+      ],
+      "competitors_detected": [],
+      "post_call_followup": "PENDING",
+      "coaching_note": "Strong situation mapping and decision process. Consistent gap: critical event. 'Trying to double revenue this year' is a goal, not a trigger. Coaching question: 'What happens to the business if you're still at $3M in December?'",
+      "zdc_status": "complete",
+      "zdc_file": "DoubleTrack_ZDC_2026-05-04.json"
+    },
+    {
+      "id": "brian_safetyrail",
+      "rep": "Brian Ball",
+      "rep_email": "brian.ball@demandzen.com",
+      "prospect": "Safety Rail Company",
+      "prospect_domain": "safetyrailcompany.com",
+      "meeting_date": "2026-04-27",
+      "meeting_title": "Safety Rail Company / DemandZEN / Intro",
+      "status": "complete",
+      "score": 42,
+      "rubric": [
+        {
+          "category": "Preparation + Social Proof",
+          "weight": 15,
+          "score": 6,
+          "max": 15
+        },
+        {
+          "category": "SPICED: S \u2014 Situation",
+          "weight": 10,
+          "score": 6,
+          "max": 10
+        },
+        {
+          "category": "SPICED: P \u2014 Pain Probing",
+          "weight": 20,
+          "score": 8,
+          "max": 20
+        },
+        {
+          "category": "Metrics \u2014 Sales Math & ICP",
+          "weight": 20,
+          "score": 8,
+          "max": 20
+        },
+        {
+          "category": "SPICED: I \u2014 Impact",
+          "weight": 15,
+          "score": 5,
+          "max": 15
+        },
+        {
+          "category": "SPICED: C \u2014 Critical Event",
+          "weight": 10,
+          "score": 2,
+          "max": 10
+        },
+        {
+          "category": "SPICED: ED \u2014 Decision Process",
+          "weight": 5,
+          "score": 3,
+          "max": 5
+        },
+        {
+          "category": "Closing \u2014 Confirmed Follow-up",
+          "weight": 5,
+          "score": 4,
+          "max": 5
+        }
+      ],
+      "spiced": {
+        "situation": "Safety Rail Company manufactures physical safety products (not software). A la carte model: inspection, installation, specification. ~$1M/week in revenue. Deals range $1.2K\u2013$260K. Uses independent reps in roofing and industrial markets. Doubling in size annually but resource constrained. Previously used Reveneer when selling direct; stopped when shifted to distributor model 18 months ago.",
+        "pain": "Independent reps lean heavily on Staci for product knowledge and can't speak intelligently to solutions independently. Resource constrained \u2014 can't keep a backlog of qualified personnel to fulfill growth.",
+        "impact": "PARTIAL \u2014 Doubling in size but resource constraints limiting growth execution. Not quantified.",
+        "critical_event": "MISSED \u2014 Staci needs 2-3 weeks to think it over and build a business case for leadership spend approval. No deadline or trigger uncovered.",
+        "decision_process": "Staci is champion and operational lead. Needs spend approval from unnamed leadership. May 12 follow-up confirmed."
+      },
+      "talk_time": {
+        "ae_pct": 65,
+        "prospect_pct": 35,
+        "flagged": true
+      },
+      "clients_mentioned": [],
+      "competitors_detected": [
+        "Reveneer",
+        "Memory Blue"
+      ],
+      "post_call_followup": "PENDING",
+      "coaching_note": "Call was presentation-heavy \u2014 65% AE talk time. Brian delivered a strong pitch but didn't dig deep enough into pain or impact. Critical event and AE talk time are the two biggest coaching points.",
+      "zdc_status": "complete",
+      "zdc_file": "SafetyRail_ZDC_2026-05-04.json"
+    },
+    {
+      "id": "aaron_zuar",
+      "rep": "Aaron Aggen",
+      "rep_email": "aaron.aggen@demandzen.com",
+      "prospect": "Zuar",
+      "prospect_domain": "zuar.com",
+      "meeting_date": "2026-04-17",
+      "meeting_title": "Zuar / DemandZEN / Intro",
+      "status": "complete",
+      "score": 64,
+      "rubric": [
+        {
+          "category": "Preparation + Social Proof",
+          "weight": 15,
+          "score": 11,
+          "max": 15
+        },
+        {
+          "category": "SPICED: S \u2014 Situation",
+          "weight": 10,
+          "score": 7,
+          "max": 10
+        },
+        {
+          "category": "SPICED: P \u2014 Pain Probing",
+          "weight": 20,
+          "score": 14,
+          "max": 20
+        },
+        {
+          "category": "Metrics \u2014 Sales Math & ICP",
+          "weight": 20,
+          "score": 13,
+          "max": 20
+        },
+        {
+          "category": "SPICED: I \u2014 Impact",
+          "weight": 15,
+          "score": 8,
+          "max": 15
+        },
+        {
+          "category": "SPICED: C \u2014 Critical Event",
+          "weight": 10,
+          "score": 3,
+          "max": 10
+        },
+        {
+          "category": "SPICED: ED \u2014 Decision Process",
+          "weight": 5,
+          "score": 3,
+          "max": 5
+        },
+        {
+          "category": "Closing \u2014 Confirmed Follow-up",
+          "weight": 5,
+          "score": 5,
+          "max": 5
+        }
+      ],
+      "spiced": {
+        "situation": "Zuar, 9-person SaaS company. Few million in ARR. $40K ACV. Transitioning from 100% referral-based to outbound. In Q2 of first outbound strategy. Piloting Memory Blue (high quality/low volume) and Branch 49 (high volume/low quality). SaaS margin ~80%, services ~45-50%.",
+        "pain": "Memory Blue delivering few meetings (50% converting to opportunity). Branch 49 delivering many meetings but poor quality/attendance. Not hitting investor-committed targets of 10 scheduled/8 held per month. ~$200K in pipeline but below expectations.",
+        "impact": "Built investor plan around meeting targets. Not being met, creating investor accountability pressure. Third month of pilot \u2014 actively evaluating options.",
+        "critical_event": "MISSED \u2014 Third month of pilot is a natural inflection point but Aaron didn't probe for a hard decision deadline.",
+        "decision_process": "Whitney appears to be decision maker at this small company. Investors provide accountability but Whitney drives the decision. Wednesday 4/22 follow-up confirmed."
+      },
+      "talk_time": {
+        "ae_pct": 53,
+        "prospect_pct": 47,
+        "flagged": false
+      },
+      "clients_mentioned": [
+        "Alteryx",
+        "Equalum (acquired by Google)",
+        "DataOps Live",
+        "RingCentral"
+      ],
+      "competitors_detected": [
+        "Memory Blue",
+        "Branch 49"
+      ],
+      "post_call_followup": "PENDING",
+      "coaching_note": "Aaron's strongest prep performance \u2014 specific client name-drops with metrics. Memory Blue personal connection was an excellent opener. Consistent gap across all reps: critical event not probed.",
+      "zdc_status": "complete",
+      "zdc_file": "Zuar_ZDC_2026-05-04.json"
+    },
+    {
+      "id": "aaron_yellowai",
+      "rep": "Aaron Aggen",
+      "rep_email": "aaron.aggen@demandzen.com",
+      "prospect": "Yellow.ai",
+      "prospect_domain": "yellow.ai",
+      "meeting_date": "2026-04-20",
+      "meeting_title": "Yellow.ai / DemandZEN \u2014 Quick Chat",
+      "status": "complete",
+      "score": 67,
+      "rubric": [
+        {
+          "category": "Preparation + Social Proof",
+          "weight": 15,
+          "score": 6,
+          "max": 15
+        },
+        {
+          "category": "SPICED: S \u2014 Situation",
+          "weight": 10,
+          "score": 8,
+          "max": 10
+        },
+        {
+          "category": "SPICED: P \u2014 Pain Probing",
+          "weight": 20,
+          "score": 15,
+          "max": 20
+        },
+        {
+          "category": "Metrics \u2014 Sales Math & ICP",
+          "weight": 20,
+          "score": 16,
+          "max": 20
+        },
+        {
+          "category": "SPICED: I \u2014 Impact",
+          "weight": 15,
+          "score": 11,
+          "max": 15
+        },
+        {
+          "category": "SPICED: C \u2014 Critical Event",
+          "weight": 10,
+          "score": 3,
+          "max": 10
+        },
+        {
+          "category": "SPICED: ED \u2014 Decision Process",
+          "weight": 5,
+          "score": 3,
+          "max": 5
+        },
+        {
+          "category": "Closing \u2014 Confirmed Follow-up",
+          "weight": 5,
+          "score": 5,
+          "max": 5
+        }
+      ],
+      "spiced": {
+        "situation": "Yellow.ai \u2014 conversational AI platform. US market ARR goal $8-10M. Internal SDR team + AI outreach + LinkedIn ads. Used Reveneer 2 years prior (moderate success, stopped for ROI reasons). $150-200K ACV. 70% gross margin. ~50 meetings/quarter currently.",
+        "pain": "Lead gen motion is unpredictable \u2014 some months good, some bad. Q1 at 80% of $8-10M US ARR plan. Need scalable, repeatable top-of-funnel process to hit plan.",
+        "impact": "Missing plan = revised next year projections. Need to scale Q2-Q4 to recover. 35 opportunities needed per quarter at 3-4x pipe coverage to hit $2.5M/quarter target.",
+        "critical_event": "MISSED \u2014 Q2 recovery need is implicit urgency but Aaron didn't probe for a specific deadline or board review date.",
+        "decision_process": "Rashid Khan is head of demand gen/marketing. Will discuss internally and have others join follow-up. Tuesday 8am follow-up confirmed."
+      },
+      "talk_time": {
+        "ae_pct": 47,
+        "prospect_pct": 53,
+        "flagged": false
+      },
+      "clients_mentioned": [],
+      "competitors_detected": [
+        "Reveneer"
+      ],
+      "post_call_followup": "PENDING",
+      "coaching_note": "Aaron's best discovery call \u2014 excellent metrics capture and genuine pain probing ('what happens if you don't get back on track?'). Preparation was the gap \u2014 no news hook, no client name drops relevant to Yellow.ai's space.",
+      "zdc_status": "complete",
+      "zdc_file": "Yellowai_ZDC_2026-05-04.json"
+    }
+  ],
+  "upcoming": [
+    {
+      "id": "brian_inframappa",
+      "rep": "Brian Ball",
+      "rep_email": "brian.ball@demandzen.com",
+      "prospect": "Inframappa",
+      "prospect_domain": "inframappa.com",
+      "meeting_date": "2026-05-07",
+      "meeting_time": "4:00 PM ET",
+      "meeting_title": "Inframappa / DemandZEN / Intro",
+      "prospect_contacts": [
+        "Moufid Charafeddine (mcharafeddine@inframappa.com)"
+      ],
+      "zdc_status": "complete",
+      "zdc_file": "Inframappa_ZDC_2026-05-04.json",
+      "prior_dz_client": true,
+      "prior_dz_note": "PRIOR DZ CLIENT \u2014 Inframappa ran a PFP program with DemandZEN (27 meetings, 8.93/mo avg). CEO Moufid was there throughout."
+    },
+    {
+      "id": "brian_safetyrail_followup",
+      "rep": "Brian Ball",
+      "rep_email": "brian.ball@demandzen.com",
+      "prospect": "Safety Rail Company",
+      "prospect_domain": "safetyrailcompany.com",
+      "meeting_date": "2026-05-12",
+      "meeting_time": "3:00 PM ET",
+      "meeting_title": "Safety Rail Company / DemandZEN \u2014 Follow-up",
+      "prospect_contacts": [
+        "Staci May"
+      ],
+      "zdc_status": "complete",
+      "prior_dz_client": false,
+      "prior_dz_note": null,
+      "zdc_file": "SafetyRail_ZDC_2026-05-04.json"
+    }
+  ]
+}

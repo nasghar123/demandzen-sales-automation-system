@@ -1,0 +1,40 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.idea/
+*.swp
+*.swo
+*~
+
+# Office lock files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Logs and temp
+*.log
+*.tmp
+.cache/
+
+# Future backend / frontend
+node_modules/
+dist/
+build/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local overrides
+local.config.json
+secrets/
+.commitmsg.txt
+.git-msg-filter.ps1
